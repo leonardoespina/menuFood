@@ -60901,7 +60901,7 @@ case 1:return A.O(q,r)}})
 return A.P($async$$1,r)},
 $S:387}
 A.lD.prototype={
-al(){return new A.Ia(A.c(["/images/random/1.png","/images/random/2.png","/images/random/3.png","/images/random/4.png"],t.s),null,null)}}
+al(){return new A.Ia(A.c(["images/random/1.png","images/random/2.png","images/random/3.png","images/random/4.png"],t.s),null,null)}}
 A.Ia.prototype={
 ar(){var s,r,q,p,o,n=this,m=null
 n.aW()
